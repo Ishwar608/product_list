@@ -1,0 +1,6 @@
+export const REQUESTSTART = "REQUESTSTART";
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const ADD_PRODUCT_SUCCESS = "ADD_PRODUCT_SUCCESS";
+export const ADD_PRODUCT_FAIL = "ADD_PRODUCT_FAIL";
+export const GET_PRODUCT = "GET_PRODUCT";
+export const FAIL = "FAIL";
